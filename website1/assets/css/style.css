@@ -1,3 +1,7 @@
 body{
-    background: #BDBDBD;
+    background:white
+    ;
+}
+#titulo-imagen1 {
+    color: rgba(0, 0,255,0.7);
 }
