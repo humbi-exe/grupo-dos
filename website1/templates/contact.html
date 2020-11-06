@@ -8,16 +8,16 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="container">
-        <div class="row">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
             <div class="col-12">
                 <h2>Contact</h2>
             </div>
             <div class="col-12">
-                <p>The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                <p>The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
             </div>
-            <div class="col-12 ">
-                <form>
+            <div class="col-6">
+                <form class="form">
                     <div class="form-group">
                         <label for="exampleInputEmail1">Your E-mail</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -26,7 +26,9 @@
                         <label for="exampleInputPassword1">Your message</label>
                         <input type="password" class="form-control" id="exampleInputPassword1">
                     </div>
-                    <button type="submit" class="btn btn-dark btn-lg">Submit</button>
+                    <div class="d-flex justify-content-end">
+                    <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+                    </div>
                 </form>
             </div>
         </div>
