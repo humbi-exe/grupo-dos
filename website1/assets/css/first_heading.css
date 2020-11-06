@@ -1,0 +1,12 @@
+#first-heading img{
+    border-radius: 50%;
+}
+#first-heading strong {
+    color: gray;
+}
+#first-heading p {
+    font-size: 22px;
+}
+#first-heading{
+    padding: 30px;
+}
