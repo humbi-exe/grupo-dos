@@ -11,3 +11,11 @@ body{
 #titulo-imagen3 {
     color: rgba(0, 0,255,0.7);
 }
+
+#portfolio-texto{
+    margin-left: 15px;
+}
+
+#parrafo-portfolio{
+    margin-left: 15px;
+}
