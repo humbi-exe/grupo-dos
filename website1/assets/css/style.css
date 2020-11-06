@@ -1,6 +1,6 @@
 body{
-<<<<<<< HEAD
     background: #BDBDBD;
+    width: 100%;
 }
 /* nav-bar */
 .navigation{
@@ -11,7 +11,7 @@ body{
     background-image: url(https://github.com/humbi-exe/grupo-dos/blob/main/website1/assets/img/bg.jpg?raw=true);
     background-repeat: no-repeat;
     background-position: center top;
-    height: 1000px;
+    height: 700px;
     background-size: cover;
     margin-top: 0%;
 }
@@ -32,10 +32,11 @@ body{
     transform: translate(-50%, -50%);
     color: white;
 }
-=======
-    background:white
-    ;
+/*Aquí comienza el portfolio*/
+#portfolio-container {
+    width: 100%;
 }
+
 #titulo-imagen1 {
     color: rgba(0, 0,255,0.7);
 }
@@ -53,4 +54,5 @@ body{
 #parrafo-portfolio{
     margin-left: 15px;
 }
->>>>>>> f253c8ee33ce7bee76aacffb41657ab8451db334
+/*Aquí termina el portfolio*/
+
