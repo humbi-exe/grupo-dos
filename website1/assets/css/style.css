@@ -1,10 +1,13 @@
 body{
-<<<<<<< HEAD
     background: #BDBDBD;
 }
 /* nav-bar */
 .navigation{
     font-size: 25px;
+    margin-bottom: 0;
+}
+.navbar{
+    padding: 20px;
 }
 /* tagline html */
 .jumbotron{
@@ -13,16 +16,14 @@ body{
     background-position: center top;
     height: 1000px;
     background-size: cover;
-    margin-top: 0%;
+    margin-top: 0;
 }
-.title {
+.title{
     text-align: center;
-    font-size: 120px;
     position: absolute;
-    top: 30%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
 }
 .subtitle{
     text-align: center;
@@ -30,27 +31,4 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
 }
-=======
-    background:white
-    ;
-}
-#titulo-imagen1 {
-    color: rgba(0, 0,255,0.7);
-}
-#titulo-imagen2 {
-    color: rgba(0, 0,255,0.7);
-}
-#titulo-imagen3 {
-    color: rgba(0, 0,255,0.7);
-}
-
-#portfolio-texto{
-    margin-left: 15px;
-}
-
-#parrafo-portfolio{
-    margin-left: 15px;
-}
->>>>>>> f253c8ee33ce7bee76aacffb41657ab8451db334
