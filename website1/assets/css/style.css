@@ -19,12 +19,9 @@ body{
     background-size: cover;
     margin-top: 0;
 }
-<<<<<<< HEAD
-.title{
-=======
+
 .title {
     width: 100%;
->>>>>>> cc15acb825dae9db1a2bacc4a09fc358d450571f
     text-align: center;
     position: absolute;
     top: 40%;
@@ -65,7 +62,7 @@ body{
 }
 
 #parrafo-portfolio{
-    margin-left: 15px;
+    margin-left: 0px;
     text-align: justify;
     text-justify: distribute;
     
