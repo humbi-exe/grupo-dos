@@ -1,3 +1,33 @@
 body{
     background: #BDBDBD;
 }
+/* nav-bar */
+.navigation{
+    font-size: 25px;
+}
+/* tagline html */
+.jumbotron{
+    background-image: url(https://github.com/humbi-exe/grupo-dos/blob/main/website1/assets/img/bg.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-position: center top;
+    height: 1000px;
+    background-size: cover;
+    margin-top: 0%;
+}
+.title {
+    text-align: center;
+    font-size: 120px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.subtitle{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
