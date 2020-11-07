@@ -1,4 +1,4 @@
-body{
+nbody{
     background: #BDBDBD;
 <<<<<<< HEAD
     width: 100%;
@@ -14,7 +14,7 @@ body{
     font-size: 45px;
 }
 /* tagline html */
-.jumbotron{
+.portada{
     background-image: url(https://github.com/humbi-exe/grupo-dos/blob/main/website1/assets/img/bg.jpg?raw=true);
     background-repeat: no-repeat;
     background-position: center top;
@@ -78,8 +78,9 @@ h1 {
     color: #BDBDBD;
 }
 
-.id-services {
+t.id-services {
     border-radius: 50%;
+<<<<<<< HEAD
 =======
 }
 . font {
@@ -93,4 +94,13 @@ h1 {
     color: black;
     font-size: 14px
 >>>>>>> d06eda339a4645fe4360c18db9372aa4d25d7e10
+=======
+}
+
+/* contact */
+.col-6 {
+    background: rgb(224, 224, 224);
+    border: 1px solid rgb(209, 209, 209);
+    height: 160px;
+>>>>>>> f8dfd617a5c532c1caf02c9ff40dc46f9ac099c1
 }
