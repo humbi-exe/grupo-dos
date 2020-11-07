@@ -1,5 +1,6 @@
 body{
     background: #BDBDBD;
+<<<<<<< HEAD
     width: 100%;
 }
 /* nav-bar */
@@ -79,4 +80,17 @@ h1 {
 
 .id-services {
     border-radius: 50%;
+=======
+}
+. font {
+    font-family: 'Roboto', sans-serif;
+}
+.h1 {
+    color:black;
+    font-size: 30px;
+}
+.p {
+    color: black;
+    font-size: 14px
+>>>>>>> d06eda339a4645fe4360c18db9372aa4d25d7e10
 }
